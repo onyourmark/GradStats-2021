@@ -3,8 +3,7 @@ date: December 2017
 output:
   html_document:
     toc: true
-    toc_float: true
-    theme: flatly
+
 
 ## Welcome to GitHub Pages
 
